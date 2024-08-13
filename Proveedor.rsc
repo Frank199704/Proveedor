@@ -114,4 +114,3 @@ add action=add-dst-to-address-list address-list="REDES WISP PROVEEDOR  " \
 add action=add-dst-to-address-list address-list="REDES WISP PROVEEDOR  " \
     address-list-timeout=00:10:00 chain=prerouting content=\
     speedtest dst-port=80,443 protocol=tcp
-
